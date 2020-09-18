@@ -1,0 +1,16 @@
+Hello There,
+Line 1
+Line 2
+my_file=open("test.txt")
+my_file.read() #Returns Giant String
+my_file.read()
+my_file.seek(0)
+my_file.readlines()
+my_file.close()
+pwd ##Used to find the location of a File
+
+%%writefile test2.txt
+Riches, a good boo
+I will never give up
+All things are perfect through Christ Jesus
+
